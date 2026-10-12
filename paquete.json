@@ -1,0 +1,121 @@
+{
+  "formatVersion": 1,
+  "id": "rodaje-titulos",
+  "version": "1.0.0",
+  "kind": "content",
+  "name": "Títulos",
+  "description": "15 estilos de texto propios: títulos, tercio inferior, cita, neón, manuscrito, máquina de escribir, subtítulos y karaoke, con entrada y salida animadas. Usan las fuentes de rodaje-fuentes (instálalo también); sin él se ven con fuentes de Windows. Contenido propio de dominio público (CC0).",
+  "author": "Dathinel",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/Dathinel/rodaje-titulos",
+  "apps": [
+    "rodaje"
+  ],
+  "items": [
+    {
+      "id": "titulo-grande",
+      "kind": "text-style",
+      "name": "Título grande",
+      "file": "estilos/titulo-grande.json",
+      "description": "Título de apertura: grande, blanco y con sombra suave; entra creciendo un poco."
+    },
+    {
+      "id": "tercio-inferior",
+      "kind": "text-style",
+      "name": "Tercio inferior",
+      "file": "estilos/tercio-inferior.json",
+      "description": "Nombre o cargo sobre una banda oscura, alineado a la izquierda; entra deslizándose."
+    },
+    {
+      "id": "cita",
+      "kind": "text-style",
+      "name": "Cita",
+      "file": "estilos/cita.json",
+      "description": "Serif en cursiva, crema y con aire entre líneas; fundido lento."
+    },
+    {
+      "id": "rotulo-condensado",
+      "kind": "text-style",
+      "name": "Rótulo condensado",
+      "file": "estilos/rotulo-condensado.json",
+      "description": "Condensada, espaciada y con borde fino; sube al entrar."
+    },
+    {
+      "id": "neon",
+      "kind": "text-style",
+      "name": "Neón",
+      "file": "estilos/neon.json",
+      "description": "Letras claras con un halo cian, que parpadean al encenderse."
+    },
+    {
+      "id": "manuscrito",
+      "kind": "text-style",
+      "name": "Manuscrito",
+      "file": "estilos/manuscrito.json",
+      "description": "Letra a mano, cálida, que entra con un pequeño giro."
+    },
+    {
+      "id": "maquina-de-escribir",
+      "kind": "text-style",
+      "name": "Máquina de escribir",
+      "file": "estilos/maquina-de-escribir.json",
+      "description": "Monoespaciada sobre una caja negra, que aparece de golpe en dos pasos."
+    },
+    {
+      "id": "redondeado",
+      "kind": "text-style",
+      "name": "Redondeado",
+      "file": "estilos/redondeado.json",
+      "description": "Redondeada y amable sobre una píldora coral; entra con un rebote."
+    },
+    {
+      "id": "impacto",
+      "kind": "text-style",
+      "name": "Impacto",
+      "file": "estilos/impacto.json",
+      "description": "Display gruesa en amarillo con borde y sombra dura; entra de golpe desde grande."
+    },
+    {
+      "id": "minimal",
+      "kind": "text-style",
+      "name": "Minimal",
+      "file": "estilos/minimal.json",
+      "description": "Fina, muy espaciada y sin adornos; fundido largo."
+    },
+    {
+      "id": "etiqueta",
+      "kind": "text-style",
+      "name": "Etiqueta",
+      "file": "estilos/etiqueta.json",
+      "description": "Texto corto en negrita sobre una pastilla naranja, para destacar un dato."
+    },
+    {
+      "id": "subtitulos",
+      "kind": "text-style",
+      "name": "Subtítulos",
+      "file": "estilos/subtitulos.json",
+      "description": "Subtítulo legible: blanco con borde negro y sombra, fundido muy corto."
+    },
+    {
+      "id": "subtitulos-caja",
+      "kind": "text-style",
+      "name": "Subtítulos en caja",
+      "file": "estilos/subtitulos-caja.json",
+      "description": "Subtítulo sobre una caja semitransparente, sin animación; cubre latino extendido, griego y cirílico."
+    },
+    {
+      "id": "karaoke-pop",
+      "kind": "text-style",
+      "name": "Karaoke pop",
+      "file": "estilos/karaoke-pop.json",
+      "description": "Palabra a palabra: blanco con borde negro y la palabra que suena en amarillo."
+    },
+    {
+      "id": "karaoke-suave",
+      "kind": "text-style",
+      "name": "Karaoke suave",
+      "file": "estilos/karaoke-suave.json",
+      "description": "Palabra a palabra sobre una caja oscura, con la palabra que suena en turquesa."
+    }
+  ]
+}
