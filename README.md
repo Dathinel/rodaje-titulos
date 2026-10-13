@@ -11,6 +11,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-CC0_1.0-E8833A?style=flat-square&labelColor=1D1D1D" alt="Licencia CC0 1.0"></a>
   <a href="https://github.com/Dathinel/rodaje-titulos/releases/latest"><img src="https://img.shields.io/github/v/release/Dathinel/rodaje-titulos?style=flat-square&labelColor=1D1D1D&color=E8833A&label=versi%C3%B3n" alt="Última versión"></a>
+  <img src="https://img.shields.io/badge/contenido-15_estilos-E8833A?style=flat-square&labelColor=1D1D1D" alt="Contenido: 15 estilos">
   <img src="https://img.shields.io/badge/formato-.paquete-E8833A?style=flat-square&labelColor=1D1D1D" alt="Formato .paquete">
   <a href="https://github.com/Dathinel/rodaje"><img src="https://img.shields.io/badge/para-Rodaje-E8833A?style=flat-square&labelColor=1D1D1D" alt="Para Rodaje"></a>
 </p>
@@ -37,7 +38,7 @@
 
 ## Instalar en Rodaje
 
-En Rodaje, Complementos → Instalar lo baja, comprueba su firma y lo instala; instala también rodaje-fuentes. A mano: descarga `rodaje-titulos-<versión>.paquete` de las [releases](https://github.com/Dathinel/rodaje-titulos/releases) y, en Rodaje, usa «Instalar desde archivo…» en Complementos o suéltalo sobre la biblioteca. Aparecen en Texto.
+En Rodaje, Complementos → Instalar lo baja, comprueba su firma y lo instala; instala también rodaje-fuentes. A mano: descarga `rodaje-titulos-<versión>.paquete` de las [releases](https://github.com/Dathinel/rodaje-titulos/releases) y, en Rodaje, usa «Instalar desde archivo…» en Complementos o suéltalo sobre la biblioteca. Aparecen en Texto. Más detalles en la [guía de complementos](https://github.com/Dathinel/rodaje/blob/main/docs/guia/complementos.md).
 
 ## Construir el paquete
 
